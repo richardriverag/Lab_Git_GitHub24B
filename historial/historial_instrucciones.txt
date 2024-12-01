@@ -1,0 +1,8 @@
+e6e069c HEAD@{0}: checkout: moving from dev to main
+e6e069c HEAD@{1}: checkout: moving from main to dev
+e6e069c HEAD@{2}: checkout: moving from 340e9561b035e5bd51917ecdd7722caefb13e331 to main
+340e956 HEAD@{3}: checkout: moving from main to HEAD~2
+e6e069c HEAD@{4}: commit: Added archivo2
+f855d17 HEAD@{5}: commit: Mi segundo commit
+340e956 HEAD@{6}: pull origin main: Fast-forward
+f393822 HEAD@{7}: commit (initial): My first commit
